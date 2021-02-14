@@ -1,0 +1,4 @@
+baseURL = "https://curtaineximinize.vercel.app"
+languageCode = "en-us"
+title = "Shower Curtain Set"
+theme = "hugo-theme-minos"
